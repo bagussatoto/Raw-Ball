@@ -12,4 +12,5 @@ This code is using sigil library.
 
 # Bukti 
 
-<a img href='./assets/ss.png'>
+![hasil Aplikasi](https://github.com/bagussatoto/Raw-Ball/assets/87259393/44510706-6d10-4d75-b363-b5fb92b99745)
+
