@@ -1,6 +1,6 @@
 # Raw Ball🔴
 
-"Raw Ball", permainan yang menantang dan menghibur, di mana pemain mengendalikan sebuah bola yang terus bergerak ke bawah melalui platform-platform. Tujuan permainan ini adalah untuk menjaga bola agar tidak mengenai duri, dan meraih skor setinggi mungkin dengan menggerakkan bola ke kiri atau kanan untuk menghindari rintangan.
+``Raw Ball`` , permainan yang menantang dan menghibur, di mana pemain mengendalikan sebuah bola yang terus bergerak ke bawah melalui platform-platform. Tujuan permainan ini adalah untuk menjaga bola agar tidak mengenai duri, dan meraih skor setinggi mungkin dengan menggerakkan bola ke kiri atau kanan untuk menghindari rintangan.
 
 Permainan ini membutuhkan kecepatan reaksi dan keterampilan motorik, karena pemain harus merespons dengan cepat terhadap perubahan dalam pola rintangan.
 
@@ -10,3 +10,6 @@ Dengan desain grafis yang cerah dan animasi yang responsif, "Raw Ball" menciptak
 This code is using sigil library. 
 
 
+# Bukti 
+
+<a img href='./assets/ss.png'>
