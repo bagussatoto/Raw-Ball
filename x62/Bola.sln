@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34024.191
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project UAS 1", "Project UAS 1\Project UAS 1.vcxproj", "{4983DFBD-D1F1-4240-A040-A83A12FD2464}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Raw ball", "Raw ball\Raw ball.vcxproj", "{4983DFBD-D1F1-4240-A040-A83A12FD2464}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
